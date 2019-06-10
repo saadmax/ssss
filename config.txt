@@ -1,0 +1,6 @@
+﻿token=NTg3NzQwNDM0NTYyOTQwOTQ4.XP6-JQ.ZMX768roSOeX2GXOVhVl2VzSQGM
+owner=455888762229227520
+prefix= y
+game= !yhelp
+stayinchannel=true
+songinstatus=true 
